@@ -1,7 +1,7 @@
 $('.carousel').carousel({
     interval: 4000
-  })
+})
 
-$(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+$(function() {
+    $('[data-toggle="tooltip"]').tooltip()
 })
